@@ -1,3 +1,8 @@
+#test file
+ignore.txt
+allow.txt
+
+
 # Ignore docs files
 /_site/
 # Hugo resources folder
